@@ -1,4 +1,4 @@
-pkg install openssl curl tor git
+pkg install openssl curl tor git openssl
 mkdir adam
 cd adam
 echo "made by adam )00))"
